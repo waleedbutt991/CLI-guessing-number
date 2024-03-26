@@ -1,0 +1,22 @@
+{
+  "name": "@waleedbutt991/guessing-number",
+  "version": "1.0.3",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
